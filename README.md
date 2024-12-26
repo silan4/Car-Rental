@@ -17,4 +17,4 @@
 - HTML
 - CSS
 - TYPESCRİPT
-# Car-Rental
+- JAVASCRİPT
